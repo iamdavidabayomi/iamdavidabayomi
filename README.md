@@ -34,5 +34,3 @@ Flutter     █████░░░░░░░░░░░░░░░░░�
 #### Onboard Me:
 
 > **Am currently open to work on a long term or contract project. Want to bring me onboard <a href="mailto:iamdavidabayomi@gmail.com" title="David Abayomi Emmanuel (iamdavidabayomi) | Email">contact me</a>**
-
----
