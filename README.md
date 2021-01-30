@@ -12,21 +12,6 @@
 
 <code>React</code> <code>Javascript</code> <code>Vue</code> <code>python</code> <code>Django</code> <code>Flask</code> <code>Php</code> <code>Laravel</code> <code>Codingter</code> <code>Dart</code> <code>Flutter</code> <code>Mysql</code> <code>Postgresql</code> <code>git</code> <code>Nodejs</code> <code>Expressjs</code> <code>Wordpress</code>
 
-#### How good am i:
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript  ████████████████████████░   96 %
-Php         ████████████████████████░   96 %
-Python      █████████████████████░░░░   84 %
-Sql         ███████████████████████░░   96 %
-Bash        ███████████████░░░░░░░░░░   60 %
-Flutter     █████░░░░░░░░░░░░░░░░░░░░   20 %
-```
-
-<!--END_SECTION:waka-->
-
 #### Collaborate with me:
 
 > **I believe open is _secure_, have you get a good idea to contribute to the open world and want a helping hand. We love to collaborate with me on your next _Open Source Project_ <a href="mailto:iamdavidabayomi@gmail.com" title="David Abayomi Emmanuel (iamdavidabayomi) | Email">contact me</a>**
