@@ -19,3 +19,5 @@
 #### Onboard Me:
 
 > **Am currently open to work on a long term or contract project. Want to bring me onboard <a href="mailto:iamdavidabayomi@gmail.com" title="David Abayomi Emmanuel (iamdavidabayomi) | Email">contact me</a>**
+
+<a href="https://stackoverflow.com/users/13387392/iamdavidabayomi"><img src="https://stackoverflow.com/users/flair/13387392.png" width="208" height="58" alt="profile for iamdavidabayomi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iamdavidabayomi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
